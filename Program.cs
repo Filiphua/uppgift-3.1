@@ -1,5 +1,5 @@
 ﻿using System;
-namespace uppgift_3_1
+namespace uppgift_3._1
 {
     class program
     { 
